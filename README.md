@@ -1,4 +1,4 @@
-# sentinel KQL Queries
+# Sentinel KQL Queries
 
 Este repositório contém queries KQL para Microsoft Sentinel.
 
