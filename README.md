@@ -9,6 +9,6 @@ Compartilhar queries práticas para:
 - Threat Hunting
 - Analytics Rules
 
-- ## Autor
+## Autor
 
-- Renan Teófilo
+ Renan Teófilo
